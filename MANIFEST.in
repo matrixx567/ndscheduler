@@ -1,1 +1,3 @@
 recursive-include ndscheduler/static *
+recursive-exclude simple_scheduler *
+recursive-exclude simple_scheduler_win *
